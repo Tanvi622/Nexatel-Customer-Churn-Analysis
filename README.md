@@ -173,3 +173,6 @@ This project demonstrates practical experience with:
 * NumPy
 * Matplotlib
 * Seaborn
+* Data Interpretation
+* Business Problem Solving
+* Data Storytelling
